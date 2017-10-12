@@ -611,3 +611,72 @@ Blog Post Styles
     -o-animation: appear 1.4s ease 0s normal forwards 1 running;
     animation: appear 1.4s ease 0s normal forwards 1 running
 }
+
+.experience-title {
+    font-size: 2.2rem;
+    text-align: left;
+    color: #000
+}
+
+.experience-role {
+  text-align: left;
+}
+
+.experience-details {
+    font-weight: 700;
+    text-align: left;
+    color: #696969
+}
+
+.experience .experience-wrapper {
+    margin-bottom: 20px
+}
+
+.cursor {
+    font-size: 3.5rem
+}
+
+.cursor.invisible {
+    color: #fff
+}
+
+.skills-section {
+    margin-bottom: 15px
+}
+
+.skills-section h5 {
+    margin-bottom: 15px;
+    font-weight: 500
+}
+
+/*@media screen and (max-width: 767px) {
+    .content-home .card {
+        padding-right: 10px;
+        padding-left: 10px
+    }
+    .about-me img {
+        margin-bottom: 20px
+    }
+    .experience .company-logo {
+        margin-bottom: 10px
+    }
+    .experience .company-logo img {
+        max-width: 75%
+    }
+    .experience .company-name,
+    .experience .experience-title,
+    .experience .experience-details {
+        text-align: center
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .experience .company-logo {
+        margin-bottom: 10px
+    }
+    .experience .company-name,
+    .experience .experience-title,
+    .experience .experience-details {
+        text-align: center
+    }
+}*/
